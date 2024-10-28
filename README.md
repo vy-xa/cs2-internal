@@ -1,6 +1,6 @@
 # EGIRL.DEV :: VYXA EDITION
 
-# TO DO:
+<h1> TO DO: </h1>
 
 - add visual features
 
